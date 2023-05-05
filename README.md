@@ -6,8 +6,14 @@ This is a Python GUI Application which is based on the Natural Language Processi
 2. Emotion Prediction
 3. NER (Named Entity Recognition)
 
-Sentiment analysis : Sentiment analysis is a natural language processing (NLP) technique that involves analyzing text data to determine the emotional tone or attitude expressed by the writer or speaker. It is a subfield of NLP that involves extracting subjective information from text data, such as opinions, attitudes, and emotions.
+**Sentiment analysis :** Sentiment analysis is a natural language processing (NLP) technique that involves analyzing text data to determine the emotional tone or attitude expressed by the writer or speaker. It is a subfield of NLP that involves extracting subjective information from text data, such as opinions, attitudes, and emotions.
 
-Emotion Prediction : Emotion prediction in Natural Language Processing (NLP) is a task that involves predicting the emotional content of a text or speech. Emotion prediction can be used to understand how people feel about a particular topic or to detect emotions in real-time conversations.
+**Emotion Prediction :** Emotion prediction in Natural Language Processing (NLP) is a task that involves predicting the emotional content of a text or speech. Emotion prediction can be used to understand how people feel about a particular topic or to detect emotions in real-time conversations.
 
-NER (Named Entity Recognition) : Named Entity Recognition (NER) is a natural language processing (NLP) technique that involves identifying and extracting named entities (i.e., specific objects, people, places, organizations, and other entities) from unstructured text data. It is a crucial step in many NLP tasks, such as information extraction, sentiment analysis, and text classification.
+**NER (Named Entity Recognition) :** Named Entity Recognition (NER) is a natural language processing (NLP) technique that involves identifying and extracting named entities (i.e., specific objects, people, places, organizations, and other entities) from unstructured text data. It is a crucial step in many NLP tasks, such as information extraction, sentiment analysis, and text classification.
+
+**Screenshot :**
+
+
+
+![Screenshot (156)](https://user-images.githubusercontent.com/103554828/236464458-25a13132-1c21-489a-870f-f5d22bc02c3b.png)
